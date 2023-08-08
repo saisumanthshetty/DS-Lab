@@ -1,0 +1,12 @@
+enter 10 elements : 
+1
+2
+3
+4
+55
+6
+7
+8
+99
+88
+second smallest element : 2
